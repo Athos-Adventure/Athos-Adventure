@@ -1,6 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Ciudad normal","order":2,"parentId":3,"scrollX":816,"scrollY":1296.5},
-{"id":2,"expanded":false,"name":"casa jairo","order":3,"parentId":0,"scrollX":0,"scrollY":0},
-{"id":3,"expanded":true,"name":"Mercado a Kinal","order":1,"parentId":0,"scrollX":1761,"scrollY":382.5}
+{"id":2,"expanded":false,"name":"casa jairo","order":3,"parentId":0,"scrollX":534,"scrollY":317.5},
+{"id":3,"expanded":true,"name":"Mercado a Kinal","order":1,"parentId":0,"scrollX":1753,"scrollY":654.5}
 ]
