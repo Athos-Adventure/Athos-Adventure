@@ -10,4 +10,13 @@ null,
 {"id":8,"expanded":true,"name":"llegada a parada trans","order":8,"parentId":5,"scrollX":1048,"scrollY":640},
 {"id":9,"expanded":true,"name":"parada","order":9,"parentId":8,"scrollX":832,"scrollY":624},
 {"id":10,"expanded":false,"name":"antes de kinal","order":10,"parentId":9,"scrollX":1036.5,"scrollY":657.75}
+{"id":1,"expanded":true,"name":"Gasolinera a mercado","order":1,"parentId":0,"scrollX":893.4545454545455,"scrollY":814.3636363636364},
+{"id":2,"expanded":true,"name":"Ruta jairo","order":4,"parentId":0,"scrollX":893.4545454545455,"scrollY":621.2727272727273},
+{"id":3,"expanded":true,"name":"Casa 1","order":5,"parentId":2,"scrollX":1068,"scrollY":635},
+{"id":4,"expanded":false,"name":"kinal","order":3,"parentId":7,"scrollX":931.6363636363636,"scrollY":568.9090909090909},
+{"id":5,"expanded":true,"name":"Ruta Juan","order":6,"parentId":0,"scrollX":1626,"scrollY":907.5},
+{"id":6,"expanded":false,"name":"casa ","order":7,"parentId":5,"scrollX":884.7272727272727,"scrollY":560.1818181818182},
+{"id":7,"expanded":true,"name":"Mercado a kinal","order":2,"parentId":1,"scrollX":3174,"scrollY":931.5},
+{"id":8,"expanded":true,"name":"Ruta Emilio","order":8,"parentId":0,"scrollX":1602,"scrollY":931.5},
+{"id":9,"expanded":false,"name":"casa emilio","order":9,"parentId":8,"scrollX":0,"scrollY":0}
 ]
