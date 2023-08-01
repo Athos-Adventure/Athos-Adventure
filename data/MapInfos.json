@@ -1,17 +1,17 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Gasolinera a mercado","order":1,"parentId":0,"scrollX":884.7272727272727,"scrollY":560.1818181818182},
-{"id":2,"expanded":false,"name":"Ruta jairo","order":4,"parentId":0,"scrollX":884.7272727272727,"scrollY":1591.0909090909092},
+{"id":1,"expanded":true,"name":"Gasolinera a mercado","order":1,"parentId":0,"scrollX":884.7272727272727,"scrollY":727.0909090909091},
+{"id":2,"expanded":false,"name":"Ruta jairo","order":4,"parentId":0,"scrollX":884.7272727272727,"scrollY":1329.2727272727273},
 {"id":3,"expanded":true,"name":"Casa 1","order":5,"parentId":2,"scrollX":722.6666666666666,"scrollY":403.3333333333333},
 {"id":4,"expanded":false,"name":"kinal","order":3,"parentId":7,"scrollX":1036.5,"scrollY":657.75},
-{"id":5,"expanded":true,"name":"Ruta Juan","order":6,"parentId":0,"scrollX":1026.5454545454545,"scrollY":568.9090909090909},
+{"id":5,"expanded":true,"name":"Ruta Juan","order":6,"parentId":0,"scrollX":1026.5454545454545,"scrollY":560.1818181818182},
 {"id":6,"expanded":false,"name":"casa ","order":7,"parentId":5,"scrollX":832,"scrollY":624},
-{"id":7,"expanded":true,"name":"Mercado a kinal","order":2,"parentId":1,"scrollX":3739.636363636364,"scrollY":879.8181818181819},
-{"id":8,"expanded":true,"name":"Ruta Emilio","order":11,"parentId":0,"scrollX":1446.5454545454545,"scrollY":770.7272727272727},
+{"id":7,"expanded":true,"name":"Mercado a kinal","order":2,"parentId":1,"scrollX":3171.2727272727275,"scrollY":879.8181818181819},
+{"id":8,"expanded":true,"name":"Ruta Emilio","order":11,"parentId":0,"scrollX":1437.818181818182,"scrollY":560.1818181818182},
 {"id":9,"expanded":false,"name":"casa emilio","order":12,"parentId":8,"scrollX":722.6666666666666,"scrollY":403.3333333333333},
 {"id":10,"expanded":false,"name":"para del bus","order":13,"parentId":8,"scrollX":0,"scrollY":0},
 {"id":11,"expanded":false,"name":"baja del bus","order":14,"parentId":8,"scrollX":722.6666666666666,"scrollY":403.3333333333333},
-{"id":12,"expanded":true,"name":"llegada a la parada","order":8,"parentId":5,"scrollX":1036.5,"scrollY":657.75},
+{"id":12,"expanded":true,"name":"llegada a la parada","order":8,"parentId":5,"scrollX":893.4545454545455,"scrollY":560.1818181818182},
 {"id":13,"expanded":false,"name":"Parada1","order":9,"parentId":5,"scrollX":0,"scrollY":0},
 {"id":14,"expanded":false,"name":"Antes de kinal","order":10,"parentId":5,"scrollX":0,"scrollY":0}
 ]
