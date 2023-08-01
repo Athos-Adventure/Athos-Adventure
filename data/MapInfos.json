@@ -8,5 +8,6 @@ null,
 {"id":6,"expanded":false,"name":"casa ","order":7,"parentId":5,"scrollX":884.7272727272727,"scrollY":560.1818181818182},
 {"id":7,"expanded":true,"name":"Mercado a kinal","order":2,"parentId":1,"scrollX":3174.6666666666665,"scrollY":824.6666666666666},
 {"id":8,"expanded":true,"name":"Ruta Emilio","order":8,"parentId":0,"scrollX":1445.3333333333333,"scrollY":806.6666666666666},
-{"id":9,"expanded":false,"name":"casa emilio","order":9,"parentId":8,"scrollX":722.6666666666666,"scrollY":403.3333333333333}
+{"id":9,"expanded":false,"name":"casa emilio","order":9,"parentId":8,"scrollX":722.6666666666666,"scrollY":403.3333333333333},
+{"id":10,"expanded":false,"name":"para del bus","order":10,"parentId":8,"scrollX":0,"scrollY":0}
 ]
