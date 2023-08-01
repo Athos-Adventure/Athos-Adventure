@@ -1,5 +1,8 @@
 [
 null,
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 {"id":1,"expanded":false,"name":"Gasolinera a mercado","order":1,"parentId":0,"scrollX":1036.8,"scrollY":658.1999999999999},
 {"id":2,"expanded":true,"name":"Ruta jairo","order":5,"parentId":0,"scrollX":838.8,"scrollY":658.1999999999999},
 {"id":3,"expanded":true,"name":"Casa 1","order":6,"parentId":2,"scrollX":829.1999999999999,"scrollY":535.8},
@@ -19,4 +22,44 @@ null,
 null,
 {"id":18,"expanded":true,"name":"Ruta Emilio","order":15,"parentId":0,"scrollX":829.1999999999999,"scrollY":535.8},
 {"id":19,"expanded":false,"name":"casa emilio","order":13,"parentId":8,"scrollX":829.1999999999999,"scrollY":526.1999999999999}
+=======
+{"id":1,"expanded":true,"name":"Gasolinera a mercado","order":1,"parentId":0,"scrollX":1068,"scrollY":640},
+{"id":2,"expanded":true,"name":"Ruta jairo","order":4,"parentId":0,"scrollX":1068,"scrollY":691},
+{"id":3,"expanded":true,"name":"Casa 1","order":5,"parentId":2,"scrollX":1068,"scrollY":651},
+{"id":4,"expanded":false,"name":"kinal","order":3,"parentId":7,"scrollX":1068,"scrollY":635},
+=======
+{"id":1,"expanded":true,"name":"Gasolinera a mercado","order":1,"parentId":0,"scrollX":882.6666666666666,"scrollY":723.3333333333334},
+{"id":2,"expanded":true,"name":"Ruta jairo","order":4,"parentId":0,"scrollX":893.3333333333334,"scrollY":620.6666666666666},
+{"id":3,"expanded":true,"name":"Casa 1","order":5,"parentId":2,"scrollX":722.6666666666666,"scrollY":403.3333333333333},
+{"id":4,"expanded":false,"name":"kinal","order":3,"parentId":7,"scrollX":932,"scrollY":414},
+>>>>>>> parent of 0a6dd14 (pelea)
+{"id":5,"expanded":true,"name":"Ruta Juan","order":6,"parentId":0,"scrollX":1626.6666666666667,"scrollY":403.3333333333333},
+{"id":6,"expanded":false,"name":"casa ","order":7,"parentId":5,"scrollX":884.7272727272727,"scrollY":560.1818181818182},
+{"id":7,"expanded":true,"name":"Mercado a kinal","order":2,"parentId":1,"scrollX":3174.6666666666665,"scrollY":824.6666666666666},
+{"id":8,"expanded":true,"name":"Ruta Emilio","order":8,"parentId":0,"scrollX":1446.6666666666667,"scrollY":806},
+{"id":9,"expanded":false,"name":"casa emilio","order":9,"parentId":8,"scrollX":722.6666666666666,"scrollY":403.3333333333333},
+{"id":10,"expanded":false,"name":"para del bus","order":10,"parentId":8,"scrollX":0,"scrollY":0},
+{"id":11,"expanded":false,"name":"baja del bus","order":11,"parentId":8,"scrollX":722.6666666666666,"scrollY":403.3333333333333}
+>>>>>>> parent of 785c1bc (Merge branch 'master' of https://github.com/Athos-Adventure/Athos-Adventure)
+=======
+{"id":1,"expanded":true,"name":"Gasolinera a mercado","order":1,"parentId":0,"scrollX":1036.5,"scrollY":657.75},
+{"id":2,"expanded":true,"name":"Ruta jairo","order":4,"parentId":0,"scrollX":1036.5,"scrollY":657.75},
+{"id":3,"expanded":true,"name":"Casa 1","order":5,"parentId":2,"scrollX":838.8,"scrollY":526.1999999999999},
+{"id":4,"expanded":false,"name":"kinal","order":3,"parentId":7,"scrollX":1040,"scrollY":624},
+{"id":5,"expanded":true,"name":"Ruta Juan","order":6,"parentId":0,"scrollX":1048.5,"scrollY":657.75},
+{"id":6,"expanded":false,"name":"casa ","order":7,"parentId":5,"scrollX":838.8,"scrollY":526.1999999999999},
+{"id":7,"expanded":true,"name":"Mercado a kinal","order":2,"parentId":1,"scrollX":3764,"scrollY":758},
+{"id":8,"expanded":true,"name":"llegada a parada trans","order":8,"parentId":5,"scrollX":1048,"scrollY":640},
+{"id":9,"expanded":true,"name":"parada","order":9,"parentId":8,"scrollX":832,"scrollY":624},
+{"id":10,"expanded":false,"name":"antes de kinal","order":10,"parentId":9,"scrollX":1036.5,"scrollY":657.75}
+{"id":1,"expanded":true,"name":"Gasolinera a mercado","order":1,"parentId":0,"scrollX":893.4545454545455,"scrollY":814.3636363636364},
+{"id":2,"expanded":true,"name":"Ruta jairo","order":4,"parentId":0,"scrollX":893.4545454545455,"scrollY":621.2727272727273},
+{"id":3,"expanded":true,"name":"Casa 1","order":5,"parentId":2,"scrollX":1068,"scrollY":635},
+{"id":4,"expanded":false,"name":"kinal","order":3,"parentId":7,"scrollX":931.6363636363636,"scrollY":568.9090909090909},
+{"id":5,"expanded":true,"name":"Ruta Juan","order":6,"parentId":0,"scrollX":1626,"scrollY":907.5},
+{"id":6,"expanded":false,"name":"casa ","order":7,"parentId":5,"scrollX":884.7272727272727,"scrollY":560.1818181818182},
+{"id":7,"expanded":true,"name":"Mercado a kinal","order":2,"parentId":1,"scrollX":3174,"scrollY":931.5},
+{"id":8,"expanded":true,"name":"Ruta Emilio","order":8,"parentId":0,"scrollX":1602,"scrollY":931.5},
+{"id":9,"expanded":false,"name":"casa emilio","order":9,"parentId":8,"scrollX":0,"scrollY":0}
+>>>>>>> parent of 8aa7454 (Merge branch 'emilio')
 ]
